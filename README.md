@@ -47,7 +47,7 @@ Este repositório contém:
 
 ## 📢 Contato
 Se tiver alguma dúvida ou sugestão, entre em contato:
-📧 [gustavobrunetti@example.com](mailto:gustavobrunetti@example.com)
+📧 [gustavo.vago@hotmail.com](mailto:gustavo.vago@hotmail.com.com)
 
 ---
 🚀 *Este projeto tem como objetivo contribuir para uma maior segurança viária através da análise inteligente de dados.*
